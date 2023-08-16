@@ -9,3 +9,4 @@
 # image03.py 使用opencv进行图片人脸识别，并用长方形括出
 # video.py 使用opencv通过摄像头进行轮廓处理
 # video01.py 使用opencv通过摄像头进行人脸识别，并用长方形括出
+# video03.py 使用opencv通过摄像头捕捉颜色并记录轨迹
