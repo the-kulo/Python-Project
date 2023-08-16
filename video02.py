@@ -4,7 +4,6 @@ import numpy as np
 
 cap = cv2.VideoCapture(0)
 
-# Blue Green Yellow
 penColorHSV = [[0, 120, 70, 10, 255, 255],
                [90, 120, 70, 130, 255, 255],
                [50, 120, 70, 70, 255, 255]]
@@ -13,9 +12,7 @@ penColorBGR = [[0, 0, 255],
                [255, 0, 0],
                [0, 255, 0]]
 
-# [x, y, colorId]
 drawPoints = []
-
 
 def findPen(img):
     hsv = cv2.cvtColor(img, cv2.COLOR_BGR2HSV)
