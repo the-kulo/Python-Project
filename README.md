@@ -1,13 +1,13 @@
 # Python Project
-# catch.py 使用urllib抓取网页标题
-# catch01.py 使用selenium抓取想要搜寻资料的标题
-# catch02.py 使用selenium自动游玩游戏
-# catch03py 使用selenium登录IG
-# image.py 使用opencv对图形进行处理
-# image01.py 使用opencv对图形进行颜色处理
-# image02.py 使用opencv检测图形形状，面积
-# image03.py 使用opencv进行图片人脸识别，并用长方形括出
-# video.py 使用opencv通过摄像头进行轮廓处理
-# video01.py 使用opencv通过摄像头进行人脸识别，并用长方形括出
-# video02.py 使用opencv通过摄像头捕捉颜色并记录轨迹
-# video03.py 使用opencv和mediapipe通过摄像头进行手部追踪
+catch.py 抓取网页标题
+catch01.py 抓取搜寻资料标题
+catch02.py 自动游玩游戏
+catch03.py 登录IG
+image.py 图片处理
+image01.py 颜色处理
+image02.py 检测图形形状，面积
+image03.py 人脸识别
+video.py 摄像头轮廓处理
+video01.py 摄像头人脸识别
+video02.py 轨迹捕捉
+video03.py 手部追踪
